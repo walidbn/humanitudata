@@ -1,0 +1,51 @@
+.navstyle{
+    height: 5%;
+    background-color: #4267B2;
+    padding-left: 3%;
+    border-bottom: solid 1px black;
+
+}
+
+#contact-icone{
+    display: inline-block;
+    margin-left: 0.5%;
+}
+#text-nav{
+    margin-left: 1%;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    color: white;
+    margin-left: 0.5%;
+    margin-right: 1%;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icone{
+    margin-left: 1%;
+}
+
+.icone-dec{
+    margin-left: 0.5%;
+}
+
+#separateur{
+    color: #000099 !important;
+    font-weight: inherit;
+    font-size: 23px;
+}
+
+#prof{
+    width: 3%;
+    border-radius: 50%;
+    margin-left: 12% !important;
+    margin-bottom: 0,90%;
+    cursor: pointer;
+ }
+#sol{
+    width: 2%;
+    margin-right: 1%;
+}

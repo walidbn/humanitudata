@@ -1,0 +1,11 @@
+.Inputsearch {
+    height: 24px;
+    margin-top: 0.7%;
+    width: 35% !important;
+    border-radius: 3px;
+    border: solid 0.5px gainsboro;
+    display: inline-block;
+}
+.recherche{
+    width: 35% !important;
+}
